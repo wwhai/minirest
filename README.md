@@ -1,7 +1,5 @@
 
-# minirest
-
-A mini RESTful API framework built on cowboy and jsx.
+# 曾经在某个网红公司重构过的一个WEB框架，设计是对的（比后来接盘的人设计的好点吧），可惜出了意外中断了，留个纪念。大概率是永远都不写erlang了吧。
 
 ## Write a RESTful API Module
 
